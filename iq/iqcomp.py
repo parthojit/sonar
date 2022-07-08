@@ -22,3 +22,15 @@ r = x_symbols * np.exp(1j*phase_noise) + n * np.sqrt(noise_power)
 plt.plot(np.real(r), np.imag(r), '.')
 plt.grid(True)
 plt.show()
+
+
+class IQ(object):
+    def __init__(self) -> None:
+        pass
+
+    def make():
+        pass
+
+
+if __name__ == "__main__":
+    pass
