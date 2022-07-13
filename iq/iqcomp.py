@@ -27,6 +27,9 @@ class IQ(object):
     def __init__(self) -> None:
         pass
 
-    def make(self):
+    def make():
         pass
-    
+
+
+if __name__ == "__main__":
+    pass
