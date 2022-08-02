@@ -33,7 +33,3 @@ class IQ(object):
 
 if __name__ == "__main__":
     pass
-<<<<<<< HEAD
-
-=======
->>>>>>> c227a5fad0e2d8725ad5b5e0e64d1b91d5569f59
